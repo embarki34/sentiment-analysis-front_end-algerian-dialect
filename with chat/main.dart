@@ -68,7 +68,7 @@ class _HomePageState extends State<HomePage> {
     const PredictSentimentScreen(baseUrl: _baseUrl),
     const AddCommentScreen(baseUrl: _baseUrl),
     const ViewCommentsScreen(baseUrl: _baseUrl),
-    const ChatScreen(apiKey: 'AIzaSyDJGOnTagZ2tc3yxrV_cOI6_LGuZGfyGJk'),
+    const ChatScreen(apiKey: 'your api key'),
   ];
 
   void _onItemTapped(int index) {
