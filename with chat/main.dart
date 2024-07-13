@@ -12,7 +12,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   runApp(const MyApp(
-    apiKey: 'apikey',
+    apiKey: 'putyou api key her',
   ));
 }
 
